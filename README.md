@@ -13,7 +13,7 @@ Collaboro con altri developer e realizzo progetti su commissione per crescere e 
 ---
 
 ### 🎓 Certifications
-Anche se sono giovane, ho già ottenuto alcune **certificazioni ufficiali** nel campo IT e sviluppo software:
+Anche se sono giovane, ho già ottenuto alcune **certificazioni ufficiali** nel campo IT e sviluppo software.
 
 
 ---
