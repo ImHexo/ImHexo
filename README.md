@@ -93,7 +93,7 @@ Anche se sono giovane, ho già ottenuto alcune **certificazioni ufficiali** nel 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains\&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio\&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-1572B6?logo=neovim&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake\&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm\&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm\&logoColor=black)
