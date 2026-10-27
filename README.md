@@ -112,8 +112,7 @@ Anche se sono giovane, ho già ottenuto alcune **certificazioni ufficiali** nel 
 ---
 
 ### 🌍 Social & Contact
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://cybertiger.is-a.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/ImHexo)
 
 ---
 
